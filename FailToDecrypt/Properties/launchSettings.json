@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FailToDecrypt": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7208",
+      "launchBrowser": false
+    }
+  }
+}
